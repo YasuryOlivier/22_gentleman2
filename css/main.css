@@ -1,0 +1,57 @@
+.menu{
+	text-decoration: none;
+	margin: 5px;
+	padding: 5px; 
+}
+.bg-black{
+	background-color: black;
+}
+.fondo{
+	width: 750px;
+	height: 500px;
+	padding: 30px;
+}
+.boton-uno{
+	margin-left: 20px;
+	margin-top:60px; 
+	border-radius: 40px;
+}
+.b-dos{
+	padding: 7px;
+	margin-left: 500px;
+}
+a{
+	text-decoration: none;
+	color: pink;
+}
+input{
+	padding: 10px;
+
+}
+.b-tres{
+	width: 50px;
+	height: 30px;
+	border-radius: 10px;
+	background-color: pink;
+	margin-bottom: 5px;
+}
+.b-cuatro{
+	background-color: transparent;
+}
+.borde-punteado{
+	border:dashed;
+}
+.img-1{
+	width: 90px;
+	height: 90px;
+	margin-left: 10px;
+}
+.img-2{
+	border-radius: 50%;
+	border:dashed white;
+	width: 50px;
+}
+.tam{
+	width: 20px;
+	height: 20px;
+}
